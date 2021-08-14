@@ -76,6 +76,17 @@ test3_Percent_Correct: 100.00%
 #####  
 test3_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/chmodtech/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr286.test3.md)"
 ##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
+#### test4 Summary of Results:  
+test4_Total_Question_Count: 17
+#####  
+test4_Correct_Response_Count: 17
+#####  
+test4_Incorrect_Response_Count: 0
+#####  
+test4_Percent_Correct: 100.00%
+#####  
+test4_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/chmodtech/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr287.test4.md)"
+##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
   
 ---  
 ### Course Certificate Of Completion
